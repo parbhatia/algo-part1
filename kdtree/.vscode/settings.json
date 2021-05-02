@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/par/Desktop/Algo Part 1/algs4.jar",
+            "/Users/par/Desktop/Algo Part 1/kdtree/**/*.jar"
+        ],
+        "exclude": [
+            ".lift/algs4.jar"
+        ]
+    }
+}
