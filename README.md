@@ -1,5 +1,5 @@
----
 ### [Princeton's Coursera Part 1](https://www.coursera.org/learn/algorithms-part1)
+
 ---
 
 | assignment | grade   |
