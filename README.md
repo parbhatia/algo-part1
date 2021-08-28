@@ -1,4 +1,6 @@
+---
 ### [Princeton's Coursera Part 1](https://www.coursera.org/learn/algorithms-part1)
+---
 
 | assignment | grade   |
 | ---------- | ------- |
@@ -8,8 +10,4 @@
 | 4          | 86/100  |
 | 5          | 100/100 |
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
+---
